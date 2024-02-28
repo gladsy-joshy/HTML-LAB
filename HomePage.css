@@ -1,0 +1,51 @@
+body{
+	background-color:#f3cbf3;
+}
+
+.table{
+	height:500px;
+	width:900px;
+	border:1px solid grey;
+	border-radius:10px;
+}
+
+.home{
+	background-color:#ffff00;
+}
+.home:hover{
+	background-color:pink;
+}
+
+.login{
+	background-color:#ffff00;
+}
+.login:hover{
+	background-color:pink;
+}
+.newuser{
+	background-color:#ffff00;
+}
+.newuser:hover{
+	background-color:pink;
+}
+.about{
+	background-color:#ffff00;
+}
+.about:hover{
+	background-color:pink;
+}
+.contact{
+	background-color:#ffff00;
+}
+.contact:hover{
+	background-color:pink;
+}
+.gallery{
+	background-color:#ffff00;
+}
+.gallery:hover{
+	background-color:pink;
+}
+
+
+	
